@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Adnan</a></h1>
-<h3 align="center">A engineering leader and full-stack web & mobile dev. With a focus on fintech & blockchain &#127470;&#127475</h3>
+<h1 align="center">Hi 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Adnan. I build fintech and blockchain apps</a></h1>
+<h3 align="center">A engineering leader and full-stack web & mobile dev &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,13 +10,11 @@ Adnan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://www.distribusion.com/)" target="blank">Distribusion</a>
+- 🔭 I’m currently working in <a href="[https://www.distribusion.com/](https://www.distribusion.com/)" target="blank">Distribusion</a>
 
-- 🌱 I've built apps with 50+ millions of App Store downloads
+- 📱 I've built apps with 50+ millions of App Store downloads
 
-- 🌱 I've helped build and scale fintech solutions with over 500 billions in assets under management
-
-- 🤝 I’m not available for freelancing.
+- 📈 I've helped build and scale fintech solutions with over 500 billions in assets under management
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
@@ -33,7 +31,6 @@ Adnan</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/adnxy">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
 
 </p>
