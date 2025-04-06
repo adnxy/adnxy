@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm 
 Adnan.</h1>
-<h3 align="center">A engineering leader and full-stack web & mobile dev based in Berlin</h3>
+<h3 align="center">A engineering leader & full-stack web and mobile developer based in Berlin</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -10,7 +10,7 @@ Adnan.</h1>
 
 - 📱 I've built mobile apps with 50+ millions of App Store downloads
 
-- 📈 I've helped build and scale fintech solutions with over 500 billions in assets under management
+- 📈 I've helped build and scale fintech unicorn with over 500 billions in assets under management
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
