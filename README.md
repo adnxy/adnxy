@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm 
-Adnan. I build fintech and blockchain apps & manage software teams</h1>
-<h3 align="center">A engineering leader and full-stack web & mobile dev based in Beril</h3>
+Adnan.</h1>
+<h3 align="center">A engineering leader and full-stack web & mobile dev based in Berlin</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
