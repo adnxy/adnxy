@@ -6,7 +6,7 @@ Adnan.</h1>
 
 - 📱 I've built mobile apps with 50+ millions of App Store downloads
 
-- 📈 I've helped build and scale fintech unicorn with over 500 billions in assets under management
+- 📈 I've helped build and scale fintech unicorn with a few billions in assets under management: : <a href="[https://www.distribusion.com/](https://altruist.com/)" target="blank">Altruist</a>
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
