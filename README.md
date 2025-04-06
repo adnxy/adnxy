@@ -37,4 +37,3 @@ Adnan.</h1>
 
 - [80+ Commands To Bookmark For React Native]([https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j](https://medium.com/nerd-for-tech/80-commands-to-bookmark-for-react-native-687d285bbf72))
 - [Measuring Screen Load Time](https://i-ads.medium.com/performance-measuring-screen-load-time-0c3322b2a2a4)
-- [React Native: Two Important Lessons I Learned The Hard Way](https://i-ads.medium.com/react-native-two-important-lessons-i-learned-the-hard-way-3a524bbcef48)
