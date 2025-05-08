@@ -4,17 +4,15 @@ Adnan.</h1>
 
 - 🔭 I’m currently helping build a world's largest transportation marketplace: <a href="https://www.distribusion.com/" target="blank">Distribusion</a>
 
-- 📱 I've built mobile apps with 50+ millions of App Store downloads
+- 📱 Built mobile apps with 50+ millions of App Store downloads
 
-- 📈 I've helped build and scale fintech unicorn with a few billions in assets under management: <a href="https://altruist.com/" target="blank">Altruist</a>
+- 📈 Built fintech unicorn with billions in assets under management: <a href="https://altruist.com/" target="blank">Altruist</a>
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **adnan4sahinovic@gmail.com**
-
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
+- Reach me **adnan4sahinovic@gmail.com**
 
 ### Blogs posts
 
