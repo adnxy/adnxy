@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm 
 Adnan.</h1>
-<h3 align="center">A engineering leader & full-stack web and mobile developer based in Berlin</h3>
+<h3 align="center">A engineering leader & full-stack mobile developer based in Berlin</h3>
 
 - 🔭 I’m currently helping build a world's largest transportation marketplace: <a href="https://www.distribusion.com/" target="blank">Distribusion</a>
 
@@ -10,20 +10,11 @@ Adnan.</h1>
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
+- 💬 Ask me about **Reactjs & React-Native**
+
 - 📫 How to reach me **adnan4sahinovic@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adnansahinovic/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/adnxy">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      </div>
-
-</p>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 ### Blogs posts
 
