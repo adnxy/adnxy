@@ -10,8 +10,6 @@ Adnan.</h1>
 
 - 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
 
-- 💬 Ask me about **Reactjs & React-Native**
-
 - 📫 How to reach me **adnan4sahinovic@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
