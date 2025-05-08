@@ -8,9 +8,7 @@ Adnan.</h1>
 
 - 📈 Built fintech unicorn with billions in assets under management: <a href="https://altruist.com/" target="blank">Altruist</a>
 
-- 📝 I regularly write articles on [https://i-ads.medium.com/]([https://dev.to/100rabhcsmc](https://i-ads.medium.com/))
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs, React-Native, or Native Development **
 
 - Reach me **adnan4sahinovic@gmail.com**
 
