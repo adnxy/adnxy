@@ -2,9 +2,9 @@
 Adnan.</h1>
 <h3 align="center">A engineering leader & full-stack mobile developer based in Berlin</h3>
 
-- 🔭 I’m currently helping build a world's largest transportation marketplace: <a href="https://www.distribusion.com/" target="blank">Distribusion</a>
-
 - 📱 Built mobile apps with 50+ millions of App Store downloads
+
+- 🔭 I’m currently helping build a world's largest transportation marketplace: <a href="https://www.distribusion.com/" target="blank">Distribusion</a>
 
 - 📈 Built fintech unicorn with billions in assets under management: <a href="https://altruist.com/" target="blank">Altruist</a>
 
