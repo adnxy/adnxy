@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 I'm 
 Adnan.</h1>
-<h3 align="left">A engineering leader & full-stack mobile developer based in Berlin</h3>
+<h3 align="left">A engineering leader & full-stack mobile dev based in Berlin</h3>
 
 📱 Built mobile apps with 50+ millions downloads
 
