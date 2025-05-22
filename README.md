@@ -2,12 +2,6 @@
 Adnan.</h1>
 <h3 align="left">A engineering leader & full-stack mobile dev based in Berlin</h3>
 
-📱 Built mobile apps with 50+ millions downloads
-
-📈 Built fintech unicorn app with 100+ billions in assets: <a href="https://altruist.com/" target="blank">Altruist</a>
-
-🔭 I’m currently helping build a world's largest transportation marketplace: <a href="https://www.distribusion.com/" target="blank">Distribusion</a>
-
 Contact **adnan4sahinovic@gmail.com**
 
 ### Blogs posts
