@@ -1,7 +1,7 @@
 
 <h3 align="left">A engineering leader & full-stack mobile dev based in Berlin</h3>
 
-Contact **adnan4sahinovic@gmail.com**
+Contact **React Native + Native**
 
 ### Blogs posts
 
