@@ -1,7 +1,5 @@
 
-<h3 align="left">A engineering leader & full-stack mobile dev based in Berlin</h3>
-
-**React Native + Native**
+**React Native + Native + AppSec**
 
 ### Blogs posts
 
